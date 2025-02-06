@@ -371,7 +371,7 @@ footer {
 .face-left   { transform: rotateY(-90deg) translateZ(75px); }
 .face-right  { transform: rotateY(90deg) translateZ(75px); }
 .face-top    { transform: rotateX(90deg) translateZ(75px); }
-.face-bottom { transform: rotateX(-90deg) translateZ(75px); }
+.face-bottom { transform: rotateX(-85deg) translateZ(75px); }
 
 @keyframes gradientShift {
     0% { background-position: 0% 0%; }
